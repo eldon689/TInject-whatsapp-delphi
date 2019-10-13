@@ -1,8 +1,5 @@
 # TInject-whatsapp-delphi
-Componente TInject para criação de chatBots com delphi
-
-o projeto TInject teve início em 12/08/2019 por Mike W. Lustosa no qual disponibilizou o código para a comunidade Delphi.
-
+Componente TInject para criação de chatBots com delphi<br></br><br></br>
 
 INSTRUÇÕES PARA USO --><br></br>
 
