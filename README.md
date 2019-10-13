@@ -14,7 +14,7 @@ INSTRUÇÕES PARA USO --><br></br>
 <br></br>
 3-Baixar a pasta BIN em: https://drive.google.com/file/d/1bqybeVFYxVqLyAMr0gi5g8Ez60wBUAwc/view?usp=sharing
 <br></br>
-4-Copiar todo o conteúdo baixado da pasta BIN no passo 3 para a pasta BIN na raiz do projeto
+4-Copiar todo o conteúdo baixado da pasta BIN no passo 3 para a pasta BIN na raiz do projeto (Caso não exista a pasta BIN em seu projeto. Crie)
 <br></br>
 5-Abrir e compilar o arquivo Tinject.dproj
 <br></br><br></br>
