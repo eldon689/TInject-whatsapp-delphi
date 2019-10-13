@@ -16,4 +16,9 @@ INSTRUÇÕES PARA USO --><br></br>
 5-Abrir e compilar o arquivo Tinject.dproj
 <br></br><br></br>
 
-*Nota: O projeto inicial foi desenvolvido no rad studio 10.3.0 (RIO)*
+O componente está 50% concluído. <br><br>Recurso que falta: Capturar o *log do console* do componente TChromium e gerar um *JSON* para tratamento das mensagens recebidas pelo WhatsApp.
+<br><br>
+
+*Nota 1: O TInject é de código aberto, e que não possui *nenhum outro componente* de terceiro além do TChromium vinculado ao código, nem muito menos utilização de *licenças* ou afins de outros componentes. Baixem os *fontes* para comprovar.
+<br><br>
+*Nota 2: O projeto inicial foi desenvolvido no rad studio 10.3.0 (RIO)*
